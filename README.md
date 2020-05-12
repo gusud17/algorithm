@@ -5,5 +5,6 @@
 
 ## BOJ
 9205
-9663
-5397
+9663 - backtracking
+5397 - (sim) stack
+11726 - DP
