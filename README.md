@@ -62,7 +62,7 @@
 1922 네트워크 연결 - prim </br>
 13418 학교 탐방하기 - kruskal </br>
 1647 도시 분할 계획 - kruskal </br>
-
+2887 행성터널 - kruskal </br>
 
 ## Programmers
 블록이동하기 </br>
