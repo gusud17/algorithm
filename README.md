@@ -65,6 +65,7 @@
 2887 행성터널 - kruskal </br>
 1806 부분합 - two pointers </br>
 2143 두 배열의 합 - prefix sum, lower bound, upper bound </br>
+2661 좋은수열 - backtracking </br>
 
 ## Programmers
 블록이동하기 </br>
