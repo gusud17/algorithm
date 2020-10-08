@@ -99,3 +99,4 @@ N진수게임 </br>
 징검다리 건너기 - binary search </br>
 수식 최대화 </br>
 보석 쇼핑</br>
+다리를 지나는 트럭 - queue </br>
