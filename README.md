@@ -119,3 +119,4 @@ N진수게임 </br>
 징검다리 - 이분탐색</br>
 보행자 천국 - dp </br>
 순위 - floyd-warshall </br>
+등굣길 - dp </br>
