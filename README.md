@@ -123,3 +123,4 @@ N진수게임 </br>
 가장 긴 팰린드롬 </br>
 숫자게임 </br>
 N-Queen - BackTracking </br>
+기지국설치 </br>
