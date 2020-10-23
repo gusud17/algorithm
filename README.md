@@ -125,3 +125,4 @@ N진수게임 </br>
 N-Queen - BackTracking </br>
 기지국설치 </br>
 배달 - dijkstra</br>
+멀리뛰기 - dp </br>
