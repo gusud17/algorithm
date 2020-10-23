@@ -122,3 +122,4 @@ N진수게임 </br>
 등굣길 - dp </br>
 가장 긴 팰린드롬 </br>
 숫자게임 </br>
+N-Queen - BackTracking </br>
