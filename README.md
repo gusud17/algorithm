@@ -126,3 +126,4 @@ N-Queen - BackTracking </br>
 기지국설치 </br>
 배달 - dijkstra</br>
 멀리뛰기 - dp </br>
+줄 서는 방법 </br>
