@@ -128,3 +128,4 @@ N-Queen - BackTracking </br>
 멀리뛰기 - dp </br>
 줄 서는 방법 </br>
 거스름돈 - dp </br>
+야근지수 </br>
