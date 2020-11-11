@@ -10,7 +10,10 @@ class Solution {
     public int solution(int n, int[] cores) {
         if (n <= cores.length) return n;
 
-        int minCore = Arrays.stream(cores).min().orElse(10000);
+        int minCore = cores[0];
+        for (int core : cores) {
+            if (minCore > core) minCore = core;
+        }
 
         int minTime = n * minCore / cores.length;
         int maxTime = n * minCore;
@@ -18,11 +21,11 @@ class Solution {
         while (minTime < maxTime) {
             int midTime = (minTime + maxTime) / 2;
 
-            int processedCnt = 0;
+            int processedCnt = cores.length;
             int startCnt = 0;
 
             for (int core : cores) {
-                processedCnt += midTime / core + 1;
+                processedCnt += midTime / core;
                 if (midTime % core == 0) {
                     startCnt++;
                     processedCnt--;
